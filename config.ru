@@ -1,4 +1,4 @@
-require 'geeks'
+require_relative 'lib/geeks'
 require 'rack/lobster'
 
 use Rack::Reloader, 0
